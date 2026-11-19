@@ -4,10 +4,10 @@ Asistente de escritorio modular, 100% offline y diseñado para entornos de desar
 
 <table width="100%">
   <tr>
-    <td align="left" width="70%">
-      <img src="https://github.com/Jaypsmall/Asistente-Modular/blob/040c702c1aed6295f9b0f644d4c3341c173a0862/assets/interfaz.jpg" width="100%" alt="Interfaz">
+    <td align="left" width="75%">
+      <img src="https://github.com/Jaypsmall/Asistente-Modular-Pro/blob/a919339f7515e74d928d29682a58ee6e615631f2/assets/GUI1234.png" width="100%" alt="Interfaz">
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="70%" alt="Windows">
       <br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70%" alt="Python">
@@ -16,11 +16,11 @@ Asistente de escritorio modular, 100% offline y diseñado para entornos de desar
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-1E1E2E?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Windows-10%2F11-1E1E2E?style=for-the-badge&logo=windows11" alt="Windows">
-  <img src="https://img.shields.io/badge/Ollama-Local_AI-1E1E2E?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Faster--Whisper-ASR_Offline-1E1E2E?style=for-the-badge&logo=openai&logoColor=10A37F" alt="Faster-Whisper">
-  <img src="https://img.shields.io/badge/License-MIT-1E1E2E?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639" alt="License MIT">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-1E1E2E?style=icon&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Windows-10%2F11-1E1E2E?style=icon&logo=windows11" alt="Windows">
+  <img src="https://img.shields.io/badge/Ollama-Local_AI-1E1E2E?style=icon&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Faster--Whisper-ASR_Offline-1E1E2E?style=icon&logo=openai&logoColor=10A37F" alt="Faster-Whisper">
+  <img src="https://img.shields.io/badge/License-MIT-1E1E2E?style=icon&logo=opensourceinitiative&logoColor=3DA639" alt="License MIT">
 </p>
 
 ---
