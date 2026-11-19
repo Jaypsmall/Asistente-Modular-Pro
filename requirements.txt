@@ -1,0 +1,10 @@
+customtkinter
+faster-whisper
+numpy
+sounddevice
+pyperclip
+pyttsx3
+pywin32
+pyautogui
+requests
+PyMuPDF>=1.22.2
