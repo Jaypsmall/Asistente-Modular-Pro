@@ -35,7 +35,7 @@ El proyecto está estructurado en varios archivos independientes para aislar los
 | **`audio_engine.py`** | Motor de transcripción offline con **Faster-Whisper** (`int8`/`float16`), detección automática de silencio (VAD) con `sounddevice`/`numpy` y *prompting* de vocabulario técnico. |
 | **`gestor_voz.py`** | Gestor asíncrono de síntesis de voz (`GestorVozAsync`) con cola de frases en streaming en tiempo real, interrupción instantánea y aislamiento COM (`pyttsx3` / SAPI5). |
 | **`ollama_client.py`** | Cliente de integración local con **Ollama** (`Qwen 2.5 Coder`), chat en streaming, ventana ampliada de **8192 tokens** (`num_ctx`), lectura de portapapeles (`pyperclip`) y autoevaluación. |
-| **`pdf_engine.py`**: Lee campos AcroForm, sincroniza datos XFA cuando existen y guarda una copia; conserva el original. |
+| **`pdf_engine.py`** | Lee campos AcroForm, sincroniza datos XFA cuando existen y guarda una copia; conserva el original. |
 | **`acciones_pc.py`** | Automatización y control de ventanas de Windows mediante **PyAutoGUI** y comandos del sistema. |
 
 ---
