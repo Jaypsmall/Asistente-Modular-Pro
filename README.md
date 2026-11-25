@@ -43,8 +43,11 @@ El proyecto está estructurado en varios archivos independientes para aislar los
 ## 🎯 Modos de Operación
 
 - **💬 Modo Charla**: Conversación fluida con la IA para resolución de dudas rápidas.
+
 - **⚙️ Modo Asistente**: Control por voz de aplicaciones de Windows, carpetas y búsquedas web.
+
 - **💻 Modo Desarrollador**: Puede usar el código del portapapeles como contexto y copia el resultado al portapapeles.
+
 - **📄 Modo Rellenar PDF**: Selecciona un PDF interactivo, dicta o escribe los datos, elige por voz o en pantalla entre secciones duplicadas como Interesado y Representante, revisa la correspondencia y confírmala antes de guardar una copia `nombre_relleno.pdf`.
 
 Cada modo de IA tiene instrucciones propias: desarrollo entrega código, charla responde para voz y PDF devuelve datos estructurados sin inventar información. El control del PC usa comandos directos.
@@ -56,11 +59,14 @@ El modo PDF necesita campos interactivos AcroForm. Para evitar asignaciones dudo
 ## 📋 Requisitos e Instalación
 
 1. Tener instalado **Python** y **Ollama** corriendo localmente (`http://localhost:11434`) con el modelo `qwen2.5-coder:7b`.
+
 2. Instalar las dependencias de Python necesarias ejecutando:
    ```bash
    pip install customtkinter faster-whisper numpy sounddevice pyttsx3 pywin32 pyperclip pyautogui requests
    ```
+
 3. *(Opcional)* En el primer arranque, **Faster-Whisper** descargará y guardará en caché local el modelo `small` automáticamente; a partir de ahí funcionará **100% offline** (`local_files_only=True`).
+
 4. Arrancar el taller ejecutando:
    ```bash
    python main.py
